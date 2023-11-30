@@ -16,6 +16,8 @@ In regard to problems with speed limit, I will use the osmnx.speed package to fi
 
 A modification to the hexagon overlapping problem would be to instead use an area weighted reaggregation to assign weights to the hexagons, based on the percentage of area that is overlapping.
 
+I also plan to clean the code extensively, removing unneccesary variables and lines of code that are never called. This, along with concise documentation will greatly improve the readability of the code, especially for future students who are being exposed to python and the study for the first time. If I have time, I will draw a workflow that will also shed some light on the more complicated overlaying operations toward the end of the analysis. 
+
 ## Plan for visualizing results
 
 Simplifying the code will not necessarily change the results of the study, just make it faster and more efficient to run. This will improve the experience of students or peers attempting to analyze this study in the future. 
