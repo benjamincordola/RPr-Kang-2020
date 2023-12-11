@@ -28,7 +28,7 @@ The original paper is an implementation of the enhanced two-step floating catchm
 ## Repository Contents
 
 The contents of this repository are outlined in three tables:
-- Data: [data/data_metadata.csv](data/data_metadata.csv)
+- Data: [data/data_metadata.csv](data/metadata.csv)
 - Procedures: [procedure/procedure_metadata.csv](procedure/procedure_metadata.csv)
 - Results: [results/results_metadata.csv](results/results_metadata.csv)
 
