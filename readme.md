@@ -8,7 +8,7 @@ This study is a replication of:
 
 The original paper is an implementation of the enhanced two-step floating catchment area (E2FCA) method of spatial accessibility measurement in health geography, applied to accessibility of intensive care unit beds and ventilators in the state of Illinois for vulnerable people aged 50 or over or diagnosed with COVID-19. The study is significant in its use of parallel processing and cyberinfrastructure, implemented on the [CyberGISX](https://cybergisx.cigi.illinois.edu) system, and the study provides reproducibility and transparency for the COVID-19 spatial health services accessibility dashboard, "[Where COVID-19](https://wherecovid19.cigi.illinois.edu/)."
 
-![workflow](https://github.com/benjamincordola/RPr-Kang-2020/workflow.jpg)
+![workflow](https://github.com/benjamincordola/RPr-Kang-2020/tree/main/workflow.jpg)
 
 ## Authors
 
