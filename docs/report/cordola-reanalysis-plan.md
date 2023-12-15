@@ -2,7 +2,7 @@
 Benjamin Cordola 
 
 
-Published in 2020, Kang et al. measured the spatial accesibilty of COVID-19 resources in Illinois. Better understanding how resources are spatially orientated related to population, specifically COVID-19 patients and population over 50, informs decisionmakers when allocating resources and funding throughout the state. Their study, written in Python, utilizes a lot of unneccessary parallel processing, and manages population data and relies on a hospital nearest neighbor function inneficiently. 
+Published in 2020, Kang et al. measured the spatial accesibilty of COVID-19 resources in Illinois. Better understanding how resources are spatially orientated related to population, specifically COVID-19 patients and population over 50, informs decision makers when allocating resources and funding throughout the state. Their study, written in Python, utilizes a lot of unneccessary parallel processing, and manages population data and relies on a hospital nearest neighbor function inneficiently. 
 
 There is also a problem with the speed limit dataset used in building the network that the study relies on. Roads missing a speed limit, of which there were hundreds, were assigned a default speed limit of 35mph. 
 
