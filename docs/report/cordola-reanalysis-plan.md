@@ -21,4 +21,4 @@ I also plan to clean the code extensively, removing unneccesary variables and li
 ## Plan for visualizing results
 
 Simplifying the code will not necessarily change the results of the study, just make it faster and more efficient to run. This will improve the experience of students or peers attempting to analyze this study in the future. 
-I will evaluate the change a new speed limit calculation and new area weighted reaggregation might have on the study by ocmparing before and after changes in the final output figures. 
+I will evaluate the change a new speed limit calculation and new area weighted reaggregation might have on the study by comparing before and after changes in the final output figures. 
